@@ -1,15 +1,3 @@
-"""
-Asynchronous Advantage Actor Critic (A3C) + RNN with continuous action space, Reinforcement Learning.
-
-The Pendulum example.
-
-View more on my tutorial page: https://morvanzhou.github.io/tutorials/
-
-Using:
-tensorflow 1.8.0
-gym 0.10.5
-"""
-
 import multiprocessing
 import threading
 import tensorflow.compat.v1 as tf
